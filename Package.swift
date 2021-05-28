@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .target(
             name: "SwiftOverlays",
-            path: "Source"
+            path: "SwiftOverlays"
         )
      ]
 )
